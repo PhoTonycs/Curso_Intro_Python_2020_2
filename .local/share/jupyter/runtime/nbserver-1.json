@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/photonycs-curso-o_python_2020_2-vypbkdmf/",
+  "base_url": "/user/photonycs-curso-o_python_2020_2-ukvby426/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "gnD76FHxS9uNovwD5nv3Tw",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/photonycs-curso-o_python_2020_2-vypbkdmf/"
+  "token": "twxhoJnlTquOQVGisNfOIw",
+  "url": "http://0.0.0.0:8888/user/photonycs-curso-o_python_2020_2-ukvby426/"
 }
