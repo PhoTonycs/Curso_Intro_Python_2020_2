@@ -13,6 +13,11 @@ El temario se dará conforme se den las clases
 - Comandos básicos para actualizar repositorios en **Github**.
 - Ejemplo.
 
+### **Clase 1:**
+- Datos *bool*
+- Listas
+- Tuplas
+- Diccioanrios
 
 ## Software
 
