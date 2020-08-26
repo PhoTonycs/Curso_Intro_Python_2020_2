@@ -14,10 +14,17 @@ El temario se dará conforme se den las clases
 - Ejemplo.
 
 ### **Clase 3:**
-- Datos *bool*
-- Listas
-- Tuplas
-- Diccioanrios
+- Datos *bool*.
+- Listas.
+- Tuplas.
+- Diccioanrios.
+
+### **Clase 4:**
+- Datos *array*.
+- Vectores.
+- Operaciones vectoriales.
+- Matrices.
+- Operaciones matriciales.
 
 ## Software
 
