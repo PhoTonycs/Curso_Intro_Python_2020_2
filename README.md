@@ -26,6 +26,10 @@ El temario se dará conforme se den las clases
 - Matrices.
 - Operaciones matriciales.
 
+### **Clase 5:**
+- Sistemas de ecuaciones.
+- Funciones.
+
 ## Software
 
 No será escencial tener isntalado los softwares mencionados en la clase para seguir el curso. Para ejecutar los archivos del repositorios contamos con el siguiente servidor de bynder
