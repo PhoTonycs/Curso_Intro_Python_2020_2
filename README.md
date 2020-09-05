@@ -30,6 +30,9 @@ El temario se dará conforme se den las clases
 - Sistemas de ecuaciones.
 - Funciones.
 
+### **Clase 6:**
+- Matplotlib.
+
 ## Software
 
 No será escencial tener isntalado los softwares mencionados en la clase para seguir el curso. Para ejecutar los archivos del repositorios contamos con el siguiente servidor de bynder
