@@ -33,6 +33,8 @@ El temario se dará conforme se den las clases
 ### **Clase 6:**
 - Matplotlib.
 
+### **Clase 7:**
+- Ejemplos de óptica CUántica con Matplotlib.
 ## Software
 
 No será escencial tener isntalado los softwares mencionados en la clase para seguir el curso. Para ejecutar los archivos del repositorios contamos con el siguiente servidor de bynder
